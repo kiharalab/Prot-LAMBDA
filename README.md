@@ -25,7 +25,7 @@ For technical problems or questions, please reach to Nabil Ibtehaz (nibtehaz@pur
 
 ## Citation:
 
->Ibtehaz, N., Zhang, Z., Kagaya, Y., Xu, M., Tomii, K., & Kihara, D. Prot-LAMBDA : Protein LAnguage Model Boosted with Distance Awareness improves structure understanding. (In submission)
+>Ibtehaz, N., Zhang, Z., Kagaya, Y., Xu, M., Tomii, K., & Kihara, D. Prot-LAMBDA : Explicit Distance Learning Enhances Structural Reasoning in Protein Language Models. (In submission)
 
 
 ## Introduction
