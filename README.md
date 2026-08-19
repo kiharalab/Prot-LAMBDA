@@ -4,7 +4,7 @@
 # Prot-LAMBDA
 
 <a href="https://github.com/marktext/marktext/releases/latest">
-   <img src="https://img.shields.io/badge/DomainPFP-v1.0.0-green">
+   <img src="https://img.shields.io/badge/ProtLAMBDA-v1.0.0-green">
    <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Mac%20-green">
    <img src="https://img.shields.io/badge/Language-python3-green">
    <img src="https://img.shields.io/badge/dependencies-tested-green">
@@ -27,11 +27,6 @@ For technical problems or questions, please reach to Nabil Ibtehaz (nibtehaz@pur
 
 >Ibtehaz, N., Zhang, Z., Kagaya, Y., Xu, M., Tomii, K., & Kihara, D. Prot-LAMBDA : Protein LAnguage Model Boosted with Distance Awareness improves structure understanding. (In submission)
 
-
-
-## Online Platform (run easily and freely on Google Colab)
-
-[https://bit.ly/domain-pfp-colab](https://bit.ly/domain-pfp-colab)
 
 ## Introduction
 Protein language models (PLMs) learn evolutionary information from large-scale sequence data, but three-dimensional relationships are encoded only implicitly. Here, we introduce Prot-LAMBDA (Protein LAnguage Model Boosted with Distance Awareness), a PLM that explicitly incorporates spatial relationships by coupling residue embeddings with inter-residue contacts. Prot-LAMBDA improves performance across diverse structure-related tasks, including contact, secondary structure, backbone geometry, solvent accessibility, and protein fold prediction. Notably, it achieves a twofold improvement in long-range contact recall and an 11.7% reduction in ψ-angle prediction error relative to ESM2-3B. Despite having approximately fivefold fewer parameters, Prot-LAMBDA also improves 3D structure prediction over ESM2-3B by 5–7% in TM-score when coupled to the same structure-prediction module. Building on these representations, we developed LambdaFold, a lightweight distance-guided structure prediction framework that achieves performance comparable to ESMFold on proteins strictly non-redundant to the training data. Finally, retrieval-augmented integration of structural templates increases mean TM-score substantially for targets with high template coverage and rescues several incorrect folds. Together, these results demonstrate that explicit spatial constraints enable efficient and generalizable structural representation learning and protein structure prediction.  
