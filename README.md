@@ -17,7 +17,7 @@
 
 <!-- Copyright (C) -------->
 
-License: GPL v3. (If you are interested in a different license, for example, for commercial use, please contact us.) 
+License: GPL v3
 
 Contact: Daisuke Kihara (dkihara@purdue.edu)
 
@@ -134,8 +134,6 @@ This usually takes <10 minutes to run.
 ### Input Files
 Protein sequence in fasta format.
 Our example input can be found in the `sample_protein` directory
-
-
 
 
 ## Acknowledgements
