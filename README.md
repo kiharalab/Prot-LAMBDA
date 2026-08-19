@@ -81,7 +81,7 @@ conda deactivate    (If you want to exit)
 ```
 
 ## Prepare Data
-Please download the model parameters from zenodo (10.5281/zenodo.21984993) and place them in the `params` directory.
+Please download the model parameters from [Huggingface](https://huggingface.co/KiharaLab/ProtLAMBDA) and place them in the `params` directory.
 
 ## Source Codes
 
